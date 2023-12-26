@@ -1,6 +1,6 @@
 # Open For Work/Internship
 
-Hi 👋, I'm Jeffrey Tuason a Reactjs Developer.
+Hi 👋, I'm Jeffrey Tuason a Computer Programmer.
 
 - [Contact Me ](#developer)
 
